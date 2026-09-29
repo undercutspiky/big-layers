@@ -1,0 +1,13 @@
+torch
+torchvision
+timm
+numpy
+pandas
+Pillow
+opencv-python
+scikit-image
+scikit-learn
+openslide-python
+einops
+safetensors
+huggingface-hub
